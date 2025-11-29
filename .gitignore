@@ -1,0 +1,7 @@
+# Drupal-specific ignores
+sites/*/files/*
+sites/*/settings.local.php
+sites/*/settings.php
+vendor/
+*.log
+.DS_Store
