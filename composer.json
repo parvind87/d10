@@ -17,10 +17,14 @@
     "require": {
         "composer/installers": "^2.0",
         "drupal/admin_toolbar": "^3.6",
+        "drupal/commerce": "^3.2",
         "drupal/core-composer-scaffold": "^10.5",
         "drupal/core-project-message": "^10.5",
         "drupal/core-recommended": "^10.5",
         "drupal/core-vendor-hardening": "^10.5",
+        "drupal/inline_entity_form": "^3.0@RC",
+        "drupal/kart": "^1.0",
+        "drupal/pathauto": "^1.14",
         "drush/drush": "12.5.3",
         "phpmailer/phpmailer": "6.12.0"
     },
